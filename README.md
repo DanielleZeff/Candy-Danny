@@ -1,4 +1,4 @@
-Inspired bt Candy Crush Game
+Inspired by Candy Crush Game
 
 
 # Getting Started with Create React App
